@@ -1,0 +1,11 @@
+.footer {
+  flex: 0 0 auto;
+  color: #333;
+  text-align: center;
+}
+
+.header {
+  background-color: #ffbb00;
+  color: #fff;
+  padding: 10px;
+}
