@@ -9,12 +9,11 @@
 
 ## About
 
-This is a relatively simple to-do list application created using React, TypeScript, and Vite in the frontend.
+This is a relatively simple to-do list application created using React, TypeScript, MaterialUI, Node/Express, and Vite in the frontend.
 
 ## Demo
 
 ![image](https://github.com/yiufakinex/todolist-frontend)
 
 <br>
-
 
